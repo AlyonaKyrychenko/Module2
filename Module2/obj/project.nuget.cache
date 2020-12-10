@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "akFsrq9ezH0QsHalffnvsbvCoEwebsZ68RVxWzdr6A1Tf+fnKRo8/vqnzWGzFfcrN+9bakpfM9LThi6UqiCjvg==",
+  "success": true,
+  "projectFilePath": "G:\\repos\\Module2\\Module2\\Module2\\Module2\\Module2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sunniva\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
